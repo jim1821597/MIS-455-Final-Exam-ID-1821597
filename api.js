@@ -20,3 +20,4 @@ desc.innerHTML = descValuconsole;
 
 .catch (err => alert("Wrong city name!"))
 })
+
